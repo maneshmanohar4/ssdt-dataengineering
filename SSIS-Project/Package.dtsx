@@ -1,0 +1,19 @@
+<?xml version="1.0"?>
+<DTS:Executable xmlns:DTS="www.microsoft.com/SqlServer/Dts"
+  DTS:refId="Package"
+  DTS:CreationDate="3/3/2024 12:27:51 PM"
+  DTS:CreationName="Microsoft.Package"
+  DTS:CreatorComputerName="MANESH-BOOK3-PR"
+  DTS:CreatorName="MANESH-BOOK3-PR\manes"
+  DTS:DTSID="{005C32EC-B866-4E49-831E-FAD58ECE8197}"
+  DTS:ExecutableType="Microsoft.Package"
+  DTS:LastModifiedProductVersion="16.0.5270.0"
+  DTS:LocaleID="16393"
+  DTS:ObjectName="Package"
+  DTS:PackageType="5"
+  DTS:VersionGUID="{9FF50D7F-1A42-429E-9521-1500C9020A7D}">
+  <DTS:Property
+    DTS:Name="PackageFormatVersion">8</DTS:Property>
+  <DTS:Variables />
+  <DTS:Executables />
+</DTS:Executable>
