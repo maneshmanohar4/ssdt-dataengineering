@@ -9,10 +9,10 @@
   DTS:ExecutableType="Microsoft.Package"
   DTS:LastModifiedProductVersion="16.0.5270.0"
   DTS:LocaleID="16393"
-  DTS:ObjectName="Package"
+  DTS:ObjectName="CSV_to_DB"
   DTS:PackageType="5"
-  DTS:VersionBuild="2"
-  DTS:VersionGUID="{1609F624-7D88-4B0A-9579-97124E7A3970}">
+  DTS:VersionBuild="3"
+  DTS:VersionGUID="{E803C744-CBA3-4650-B027-46C46DC84165}">
   <DTS:Property
     DTS:Name="PackageFormatVersion">8</DTS:Property>
   <DTS:ConnectionManagers>
